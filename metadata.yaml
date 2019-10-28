@@ -1,0 +1,30 @@
+_repo: Liriche_60549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montanelli, Giuseppe
+    aliases:
+    - Montanelli, G.
+    - Montanelli, Joseph
+    birthdate: 1813
+    deathdate: 1862
+    gutenberg_agent_id: '51011'
+    url: http://www.gutenberg.org/2009/agents/51011
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Giuseppe_Montanelli
+    - https://it.wikipedia.org/wiki/Giuseppe_Montanelli
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60549'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Liriche
+url: http://www.gutenberg.org/ebooks/60549
